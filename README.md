@@ -7,12 +7,16 @@ Este proyecto forma parte de una solución que contempla las APIs del S1, S2 y S
 
 Instalación: preparación del ambiente de desarrollo.
 
-OAuth2.0: implementación del protocolo de autorización.
-API S1: API para conectarse a la PDN en el Sistema 1.
-API S2: API para conectarse a la PDN en el Sistema 2.
-API S3S: API para conectarse a la PDN en el Sistema 3 Servidores sancionados.
-API S3P: API para conectarse a la PDN en el Sistema 3 Particulares Sancionados.
 
+<ul>
+
+<li> OAuth2.0: implementación del protocolo de autorización.</li>
+<li> API S1: API para conectarse a la PDN en el Sistema 1. </li>
+<li> API S2: API para conectarse a la PDN en el Sistema 2. </li>
+<li> API S3S: API para conectarse a la PDN en el Sistema 3 Servidores sancionados. </li>
+  <li> API S3P: API para conectarse a la PDN en el Sistema 3 Particulares Sancionados. </li>
+
+</ul>
 # Documentación
 
 <a href="https://docs.google.com/document/d/1UoUKII1dscdKojGMEdUyLls0CKPp4pe2E28djCYMf6A/edit">Documentación OAuth2.0</a></br>
