@@ -15,5 +15,6 @@ API S3P: API para conectarse a la PDN en el Sistema 3 Particulares Sancionados.
 
 # Documentación
 
-<a href="https://docs.google.com/document/d/1UoUKII1dscdKojGMEdUyLls0CKPp4pe2E28djCYMf6A/edit">Documentación OAuth2.0</a>
-<a href="https://identityserver4.readthedocs.io/en/latest/">Documentación IdentityServer4</a>
+<a href="https://docs.google.com/document/d/1UoUKII1dscdKojGMEdUyLls0CKPp4pe2E28djCYMf6A/edit">Documentación OAuth2.0</a></br>
+<a href="https://identityserver4.readthedocs.io/en/latest/">Documentación IdentityServer4</a></br>
+<a href="https://dotnet.microsoft.com/download/dotnet/3.1">.NETCORE 3.1</a>
